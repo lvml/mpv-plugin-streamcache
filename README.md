@@ -38,8 +38,8 @@ filled to a reasonable size (by default 30 seconds worth of media, see
 the start of the script for configuration options), replay will gradually
 accelerate towards 100% / normal speed.
 
-The speed of replay will be adjusted so slowly that you probably notice
-it at all.
+The speed of replay will be adjusted so slowly that you probably 
+won't notice it at all.
 
 Of course, this also means it will take considerable time (like 20 minutes
 or so) before the maximum desired cache filling is reached, but that's
